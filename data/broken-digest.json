@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "tables": {
+    "forms": {
+      "file": "normal-forms.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 51,
+      "rows": 1,
+      "fields": [
+        "id",
+        "file",
+        "revision"
+      ]
+    },
+    "expected_fields": {
+      "file": "normal-expected_fields.jsonl",
+      "sha256": "cb61874255472560c131e97e4092bf84f1ccff861d239adf4df749df9120823f",
+      "bytes": 143,
+      "rows": 2,
+      "fields": [
+        "id",
+        "full_name",
+        "type",
+        "widgets"
+      ]
+    }
+  }
+}

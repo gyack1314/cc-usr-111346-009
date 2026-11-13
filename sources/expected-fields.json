@@ -1,0 +1,10 @@
+{
+  "visit.result": {
+    "value": "current",
+    "widgets": 2
+  },
+  "followup.result": {
+    "value": "second",
+    "widgets": 1
+  }
+}

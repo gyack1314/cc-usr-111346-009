@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/form.pdf",
+      "bytes": 1363,
+      "sha256": "c908e0c928b56c3ac1caa9a0d611fba860aeae689af4968078683681a6b21f14"
+    },
+    {
+      "path": "sources/form-before.pdf",
+      "bytes": 1180,
+      "sha256": "ec5c5ef0502066319a079758d5ec46bc8e38180a8effbbed07295e7a4d21553e"
+    },
+    {
+      "path": "sources/expected-fields.json",
+      "bytes": 136,
+      "sha256": "5aafb94c3599c06bb28ba4aa981c8b3f2fb1709f8abb8fe2eb9bcc57a80a3ca7"
+    }
+  ]
+}
